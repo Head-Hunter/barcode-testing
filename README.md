@@ -14,3 +14,6 @@
 
 * в основе лежит документация из http://developer.android.com/index.html
 * исходный код проекта https://github.com/tanhe123/QRCodeAssistanceAndroidStudio
+
+
+выполнено в рамках проектов Клуба программистов http://club.1c.ru/
